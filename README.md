@@ -1,4 +1,4 @@
-AI-Based Image Colorization with DeOldify
+# AI-Based Image Colorization with DeOldify #
 **Overview**
 
 This project presents an AI-based image colorization system using the DeOldify library to transform black-and-white photos into vivid color images. Leveraging advanced deep learning techniques and convolutional neural networks (CNNs), particularly models provided by DeOldify, the system learns intricate mappings from grayscale to color images. Utilizing Python, Fastai, and PyTorch libraries, the project involves using trained models and applying them to grayscale images to achieve high-quality colorization. Key components include handling GPU acceleration for efficient processing and using a user-friendly interface for input image selection and colorization parameter adjustment. This project enhances the visual appeal and accessibility of historical photographs, bridging the fields of computer vision, digital humanities, and art restoration, and demonstrating the powerful impact of AI in reviving and preserving our visual heritage.
