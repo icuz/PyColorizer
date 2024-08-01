@@ -25,7 +25,7 @@ This project presents an AI-based image colorization system using the DeOldify l
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/icuz/miniProject
+git clone https://github.com/icuz/PyColorizer
 ```
 
 2. Create a virtual environment and activate it:
